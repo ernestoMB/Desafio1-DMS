@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DesafioPractico1</string>
+
+    <string name="title">Calcular Promedio</string>
+    <string name="nombreEstudiante">Ingrese el nombre</string>
+    <string name="nota1">Ingrese la nota 1</string>
+    <string name="nota2">Ingrese la nota 2</string>
+    <string name="nota3">Ingrese la nota 3</string>
+    <string name="nota4">Ingrese la nota 4</string>
+    <string name="nota5">Ingrese la nota 5</string>
+    <string name="btnPromedio">Calcular Promedio</string>
+    <string name="txtvResultado">Resultado:</string>
+
+
+
+
+
+    <string name="title2">Calcular Salario Base</string>
+    <string name="nombreEmpleado">Nombre del empleado</string>
+    <string name="salarioBase">Salario base</string>
+    <string name="btnCalcularSalario">Ver Salario neto</string>
+    <string name="salarioNeto">Salario neto: </string>
+
+
+
+    <string name="title3">Calculadora Basica</string>
+    <string name="numero1">valor 1</string>
+    <string name="numero2">valor 2</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="txtvResultadoOperacion">Resultado: </string>
+
+
+
+
+
+
+
+
+
+
+</resources>
